@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub Profile!
 
 ### About Me
-- 🔭 **Current Project**: I'm building an app focused on API development, including authentication tables, map coordinate decoding, and custom code table generation. It’s a bit hard to explain, but it’s a passion project where I’m mastering the art of APIs! 🚀  
+- 🔭 **Current Project**: Focusing on exam project! 🚀  
 - 🌱 **Learning Journey**: My goal is to become the best in working with APIs—designing, building, and optimizing them to solve real-world problems. I’m diving deep into RESTful principles, API security, and performance optimization to reach this goal.  
 - 🤔 **Looking for Opportunities**: I’m seeking an internship or a junior role where I can collaborate with experienced developers and gain hands-on experience with APIs in real-world scenarios. Mentorship and practical challenges are what I need to grow!  
 
