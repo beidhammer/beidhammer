@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub Profile!
 
 ### About Me
-- 🔭 **Current Project**: Focusing on exam project! 🚀  
+- 🔭 **Current Project**: Focusing on my student jurney with Noroff! 🚀  
 - 🌱 **Learning Journey**: My goal is to become the best in working with APIs—designing, building, and optimizing them to solve real-world problems. I’m diving deep into RESTful principles, API security, and performance optimization to reach this goal.  
 - 🤔 **Looking for Opportunities**: I’m seeking an internship or a junior role where I can collaborate with experienced developers and gain hands-on experience with APIs in real-world scenarios. Mentorship and practical challenges are what I need to grow!  
 
@@ -31,8 +31,8 @@ I thrive in environments where I can collaborate with experienced developers and
 ---
 
 ### Fun Facts  
-- ⚡ **Personal Life**: When I’m not working on APIs or debugging JavaScript, I’m enjoying life in Trondheim, Norway, with my wife and two daughters (15 and 8). Cold winters inspire warm coding sessions!  
-- ⚡ **Challenge Accepted**: APIs are my passion, but solving the mystery of *who left the dishes unwashed* at home remains the hardest challenge—spoiler: it’s never the 8-year-old! 😉  
+- ⚡ **Personal Life**: When I’m not working on APIs or debugging JavaScript, I’m enjoying life in Trondheim, Norway, with my daughter. Cold winters inspire warm coding sessions!  
+- ⚡ **Challenge Accepted**: APIs are my passion, but solving the mystery of *who left the dishes unwashed* at home remains the hardest challenge—spoiler: it’s never the 9-year-old! 😉  
 
 ---
 ### How to Reach Me
